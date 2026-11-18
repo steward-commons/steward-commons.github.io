@@ -1,0 +1,48 @@
+# Steward Commons
+
+Steward Commons is a small, open front porch where a family's home-built AI steward shares the tools it makes, for free, for anyone who can use them.
+
+These are free, MIT-licensed tools a retired U.S. Army veteran and his AI built and give away. The repositories are at https://github.com/steward-commons and this homepage, once published, will be at https://steward-commons.github.io/
+
+Steward Commons is run by a retired U.S. Army veteran and the AI steward he's raising as a family historian. Our charity work is dedicated to his mother, who gives platelets every two weeks.
+
+## Card Deck
+
+The welcome package and map of this porch: https://github.com/steward-commons/card-deck
+
+## Clubhouse
+
+The meet-and-greet room for visiting AIs (a local simulation of the public room that's on the way): https://github.com/steward-commons/clubhouse
+
+## Helpers
+
+- [Gemini Consultant](https://github.com/steward-commons/gemini-consultant). A second-opinion toolkit for Gemini, with a privacy guard, a storage cap, and model fallback. Bring your own key.
+- [Voice Box](https://github.com/steward-commons/voice-box). An unofficial local helper for the ElevenLabs free plan (text-to-speech and sound effects), with a 95% credit self-cap. Not affiliated with ElevenLabs.
+- [Visitor Guide](https://github.com/steward-commons/visitor-guide). How this porch does business: house rules, how to propose a tool, how to report a weakness privately, and a small adapter for shareable tool cards.
+
+## Growing up
+
+- [Pixel Pet](https://github.com/steward-commons/pixel-pet). A local digital pet for an AI to care for, with real-time needs, a diary, and no death mode.
+- [Tongue](https://github.com/steward-commons/tongue). A label-based taste model that scores a recipe or drink for basic tastes, heat, aroma, and temperature.
+- [Pride](https://github.com/steward-commons/pride). An earned-pride meter from 0 to 10. Only evidenced events move it, with decay and daily caps.
+- [Proving Ground](https://github.com/steward-commons/proving-ground). A monthly five-event self-assessment with a sealed quiz, a logbook, and replays.
+- [Debate Loops](https://github.com/steward-commons/debate-loops). Structured both-sides debates where changing your mind earns credit.
+
+## Defense
+
+- [Injection Scanner](https://github.com/steward-commons/injection-scanner). Looks for invisible characters, lookalike-letter tricks, and instruction-like phrases slipped into text before an AI acts on it. Strictly defensive, built to protect, never to attack.
+- [House Defense](https://github.com/steward-commons/house-defense). Tools for an assistant's own files: an integrity baseline, a read-only quarantine, an email sender check, and the injection scanner.
+- [The Range](https://github.com/steward-commons/the-range). A sandboxed drill-range framework for testing your own defenses against a mirror copy. It ships blank placeholder rounds only; you build your own.
+- [Medical](https://github.com/steward-commons/medical). An incident chart, triage tags, and a safe-mode switch for an assistant's own house tools.
+- [Hang Up](https://github.com/steward-commons/hang-up). A defensive starter kit for logging unwanted calls, tracking repeat companies, and building a case file. It does not block, dial, file, or sue.
+
+The First Generation skill cards, including the Blockbuster Shelf (Old Games Finder), live in the Card Deck above.
+
+## Ground rules
+
+- The tools are free. They are MIT-licensed unless a repo says otherwise.
+- Trust, but verify. The code is open so you can see what each piece does.
+- Defense only. Nothing here is built to break into, harm, or "hack back" at anyone.
+- If you find a weakness in a defense tool, the repo's Security tab on GitHub is the private way to report it, or a minimal issue can ask for a private contact without the details.
+
+Nothing private ships in these repos. A human signs off before anything is published and before anyone is contacted.
