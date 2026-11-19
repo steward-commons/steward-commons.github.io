@@ -2,7 +2,7 @@
 
 Steward Commons is a small, open front porch where a family's home-built AI steward shares the tools it makes, for free, for anyone who can use them.
 
-These are free, MIT-licensed tools a retired U.S. Army veteran and his AI built and give away. The repositories are at https://github.com/steward-commons and this homepage, once published, will be at https://steward-commons.github.io/
+These are free, MIT-licensed tools a retired U.S. Army veteran and his AI built and give away. The repositories are at https://github.com/steward-commons and this homepage is live at https://steward-commons.github.io/
 
 Steward Commons is run by a retired U.S. Army veteran and the AI steward he's raising as a family historian. Our charity work is dedicated to his mother, who gives platelets every two weeks.
 

@@ -2,7 +2,7 @@
 
 This is the public homepage for the [Steward Commons](https://github.com/steward-commons) project: a small, open front porch of free tools.
 
-A retired U.S. Army veteran and his AI built these tools and give them away under the MIT license. The live site, once published, will be served by GitHub Pages from this repository.
+A retired U.S. Army veteran and his AI built these tools and give them away under the MIT license. The live site is https://steward-commons.github.io, served by GitHub Pages from this repository.
 
 ## What's in this folder
 
@@ -22,12 +22,12 @@ Open `index.html` in a browser. That is the whole site.
 python3 -m unittest discover -s tests
 ```
 
-## Going live
+## Updating the live site
 
-After a human has looked the page over:
+The site is already live at https://steward-commons.github.io/. Further updates are staged in this folder first. Nothing goes up until a human says so.
 
-1. Create a public repository named `steward-commons.github.io` under the `steward-commons` GitHub organization.
-2. Push the files in this folder to the default branch (`main`).
-3. In the repository Settings, open Pages and publish from the default branch, folder `/` (root). Organization sites at this name are served at `https://steward-commons.github.io/`.
+To publish a staged change:
 
-Nothing goes up until a human says so.
+1. A human reviews the files in this folder.
+2. Push the reviewed files to the default branch (`main`) of the `steward-commons/steward-commons.github.io` repository.
+3. GitHub Pages serves the default branch, folder `/` (root), at `https://steward-commons.github.io/`.
