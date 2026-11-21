@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
